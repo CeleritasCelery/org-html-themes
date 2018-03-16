@@ -598,7 +598,7 @@ textarea{
 body{
     width:95%;
     margin:2% auto;
-    font:normal normal normal 18px/1.6em Georgia,serif;
+    font:normal normal normal 12px/1.6em Georgia,serif;
     color:#333
 }
 @media (min-width:769px){
