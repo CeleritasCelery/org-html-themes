@@ -694,8 +694,20 @@ kbd {
 .code-highlighted {
     background-color: #ff0;
 }
+.org-src-container {
+    font-family: Inconsolata,monospace;
     font-size: 90%;
+    position: relative;
+    background-color: #E5EBF4;
+    mso-line-height-rule: exactly;
+    line-height: 100%;
+    margin-top: 1em;
+    margin-bottom: 1em;
 }
+p,pre,span {
+    /* This it make sure we are using single line spaceing */
+    mso-line-height-rule: exactly;
+    line-height:110%;
 }
 }
 }
