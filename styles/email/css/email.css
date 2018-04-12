@@ -713,4 +713,7 @@ p,pre,span {
     user-select: none;
     -ms-user-select: none; /* IE 10+ */
 }
+i {
+    background-color: #ffff99;
+}
 }
