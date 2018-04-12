@@ -709,5 +709,8 @@ p,pre,span {
     mso-line-height-rule: exactly;
     line-height:110%;
 }
+.linenr {
+    user-select: none;
+    -ms-user-select: none; /* IE 10+ */
 }
 }
