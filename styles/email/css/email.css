@@ -614,24 +614,6 @@ h4,h5,h6 {
 dt {
     font-weight: 700;
 }
-table {
-    margin: auto;
-    border-top: 2px solid;
-    border-collapse: collapse;
-}
-table,thead {
-    border-bottom: 2px solid;
-}
-table td+td,table th+th {
-    border-left: 1px solid gray;
-}
-table tr {
-    border-top: 1px solid #d3d3d3;
-}
-td,th {
-    padding: 5px 10px;
-    vertical-align: middle;
-}
 caption.t-above {
     caption-side: top;
 }
@@ -708,6 +690,7 @@ p,pre,span {
     /* This it make sure we are using single line spaceing */
     mso-line-height-rule: exactly;
     line-height:110%;
+    margin-bottom: 1em;
 }
 .linenr {
     user-select: none;
