@@ -689,8 +689,12 @@ kbd {
 p,pre,span {
     /* This it make sure we are using single line spaceing */
     mso-line-height-rule: exactly;
-    line-height:110%;
+    line-height: 110%;
     margin-bottom: 1em;
+}
+pre {
+    /* dont double space source code blocks */
+    margin: 0px;
 }
 .linenr {
     user-select: none;
