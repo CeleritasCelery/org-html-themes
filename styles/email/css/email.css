@@ -4,7 +4,7 @@ html {
     /* size 11 */
     font-size: 90%;
 }
-.src,.done,.todo,code {
+.src,code {
     /* Monospace fonts for code */
     font-family: Inconsolata,Consolas,Monospace;
 }
@@ -40,14 +40,4 @@ i {
 }
 .src,code,th {
     background-color: #E1EAEA;
-}
-.todo {
-    background-color: #F33;
-}
-.done {
-    background-color: #3C3;
-}
-.done,.todo {
-    color: white;
-    font-size: 80%;
 }
