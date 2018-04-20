@@ -26,7 +26,8 @@ pre {
 }
 blockquote {
     /* Github style quote */
-    margin-left: 2em;
+    color: #666;
+    margin-left: 0em;
     padding-left: 1em;
     border-left: 3px solid #CCC;
 }
