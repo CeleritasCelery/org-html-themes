@@ -6,7 +6,7 @@ html {
 }
 .src,code {
     /* Monospace fonts for code */
-    font-family: Consolas,Inconsolata,Monospace;
+    font-family: Consolas,Courier,Monospace;
 }
 .src,code {
     /* match the font size of the rest of the email */
