@@ -13,8 +13,8 @@ html {
     font-size: 100%;
 }
 h1,h2,h3 {
-    /* we don't need large headers in emails */
-    font-size: 110%;
+    /* we don't need giant headers in emails */
+    font-size: 130%;
 }
 pre {
     /* don't double space source code blocks */
