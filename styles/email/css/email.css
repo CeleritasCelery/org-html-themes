@@ -2,7 +2,7 @@ html {
     /* Calibri is MSO defalt font */
     font-family: Calibri,Helvetica,Sans-Serif;
     /* size 11 */
-    font-size: 90%;
+    font-size: 100%;
 }
 .src,code {
     /* Monospace fonts for code */
